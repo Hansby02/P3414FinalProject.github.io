@@ -1,0 +1,45 @@
+body{
+    background-color: #023e47; /*#f2f0ea*/
+}
+html {
+    overflow-y: scroll;
+}
+#headerPage .h1{
+    margin-bottom: 0;
+}
+
+
+.flourish-credit{
+    display: none;
+}
+
+#mainBody{
+    padding: 0 2vh 2rem 2rem;
+    margin-bottom: 5vh;
+    background-color: #f2f0ea;
+}
+.border-2 {
+    border-width: 5px !important;
+    border-color: orange /*#f2f0ea*/ !important;
+}
+
+#navBar {
+    border: orange; /*#f2f0ea*/
+}
+
+.nav-tabs .nav-link.active{
+    background-color: orange; /*#f2f0ea*/
+    border-color: transparent;
+}
+
+.nav-link{
+    color: white;
+}
+
+.nav-link:hover {
+    color: black;
+}
+
+.nav-tabs {
+    border-bottom: transparent;
+}
